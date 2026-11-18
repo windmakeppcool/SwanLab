@@ -68,3 +68,4 @@ CODEBUDDY.md
 .reasonix/
 .mcp.json
 .zcodeignore
+**/node_modules/**
